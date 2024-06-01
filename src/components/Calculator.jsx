@@ -59,7 +59,7 @@ const Calculator = () => {
 
   return (
     <div>
-      <h1>Calculadora MN</h1>
+      <h1 className="text-3xl font-bold underline">Calculadora MN</h1>
       <div>
         <label>
           Rango inicial:
